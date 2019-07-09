@@ -10,6 +10,6 @@ Recurrent Neural Networks are ideal neural architectures for sequential data suc
 
 
 ## Details
-See the pdf file for an in depth description of the project and the results. [Click here](./Stock Time Series Forecasts by Recurrent Neural Networks.pdf)
+See the pdf file for an in depth description of the project and the results. [Click here](https://github.com/sarpuslu/rnn/blob/master/Stock%20Time%20Series%20Forecasts%20by%20Recurrent%20Neural%20Networks.pdf)
 
 See jupyter notebook to see an application of GRU Recurrent Neural Network to forecast one day ahead SP500 index values given four day length lagged fixed length window inputs.

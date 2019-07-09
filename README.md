@@ -7,7 +7,7 @@ This is a sample from my Financial Engineering Master's Thesis Project at Steven
 Recurrent Neural Networks are ideal neural architectures for forecasting sequential data such as financial time series. The goal of this project is to apply LSTM, GRU and Elman networks for financial time series forecasting. 
 
 ## Approach
-Neural networks are function approximators between input and output values. For time series data, inputs are fixed size windows of past values are outputs are fixed size windows of future values. 
+Neural networks are function approximators between input and output values. For univariate time series data, inputs are fixed size windows of past values are outputs are fixed size windows of future values. 
 
 In this project, fixed size window of past S&P500 daily index values are fed into the network and mapped to the next day's value. This one step ahead forecasting system is tested with various RNN architectures and compared by forecasting errors observed. 
 

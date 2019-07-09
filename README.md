@@ -14,4 +14,4 @@ In this project, fixed size window of past S&P500 daily index values are fed int
 ## Details
 [Click here](https://github.com/sarpuslu/rnn/blob/master/Stock%20Time%20Series%20Forecasts%20by%20Recurrent%20Neural%20Networks.pdf) to see the pdf file for an in depth description of the project and the results. 
 
-[Click here](https://github.com/sarpuslu/rnn/blob/master/rnn-sp500index-forecast.ipynb) to see the jupyter notebook to see an application of GRU Recurrent Neural Network to forecast one day ahead SP500 index values given four day length lagged fixed length window inputs. 
+[Click here](https://github.com/sarpuslu/rnn/blob/master/rnn-sp500index-forecast.ipynb) to see the jupyter notebook to see an application of GRU Recurrent Neural Network to forecast one day ahead SP500 index values given four day lagged fixed window inputs. 
